@@ -4,7 +4,7 @@
 # Capstone Project
 
 ## Starbucks Capstone Challenge
-
+[!image](https://github.com/salsabeel-tn/Starbucks-Capstone-project/blob/master/starbucks.jpeg)
 ### Introduction
 
 This is the final project of the [Udacity AWS Machine Learning Engineer Nanodegree Program](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t).
