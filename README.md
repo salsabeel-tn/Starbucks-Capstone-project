@@ -4,7 +4,7 @@
 # Capstone Project
 
 ### Starbucks Capstone Challenge <br> 
-#### Predicting customer favourite offers based on their behaviour on the app
+#### Predicting customer favourite offers based on their behaviour while using the Starbucks app
 ![image](https://github.com/salsabeel-tn/Starbucks-Capstone-project/blob/master/starbucks.jpeg)
 ### Introduction
 
